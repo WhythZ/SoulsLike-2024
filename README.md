@@ -1,4 +1,4 @@
-# SoulsLike-2024
+# SoulsLike
 
 ## LICENSE
 This repo adopts [MIT License](https://spdx.org/licenses/MIT)
